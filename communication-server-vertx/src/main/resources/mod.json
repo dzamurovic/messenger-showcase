@@ -1,0 +1,9 @@
+{
+
+  // Java verticle
+  //"main":"org.ezamur.messenger.ServerVerticle",
+  //"main":"org.ezamur.messenger.PingVerticle",
+
+  "auto-redeploy": true
+
+}

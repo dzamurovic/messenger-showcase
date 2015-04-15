@@ -1,0 +1,7 @@
+src/main/resources
+bin
+out/production/communication-server-vertx
+out/test/communication-server-vertx
+build/deps
+build/classes/main
+build/resources/main
